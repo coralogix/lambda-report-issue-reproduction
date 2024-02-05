@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-timeout",
+  "version": "1.0.0",
+  "description": "A lambda timing out",
+  "main": "src/app.js",
+  "author": "Rafal Sumislawski",
+  "license": "none"
+}
